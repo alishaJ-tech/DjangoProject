@@ -1,3 +1,3 @@
 # DjangoProject
 
-A virtual environment was created in my local systen before installing the django project. 
+A virtual environment was created in my local system before installing the django project. 
